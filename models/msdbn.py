@@ -7,7 +7,7 @@ import copy
 import logging
 import math
 import random
-import resnet1
+import resnet
 from os.path import join as pjoin
 
 import torch
