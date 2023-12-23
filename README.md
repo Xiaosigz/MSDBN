@@ -1,7 +1,7 @@
 # Duet of ViT and CNN: multi-scale dual-branch network for fine-grained image classification of marine organisms
 Official PyTorch code for the paper: Duet of ViT and CNN: multi-scale dual-branch network for fine-grained image classification of marine organisms (IMTS)
 ## Overall Architecture
-![img](https://github.com/Xiaosigz/MSDBN/blob/main/Model.pdf)
+![img](https://github.com/Xiaosigz/MSDBN/blob/main/Model.png)
 ## Prerequisites
 * Python >= 3.6
 * Pytorch = 1.9
