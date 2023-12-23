@@ -18,4 +18,4 @@ To train our model on datasets, run:
 CUDA_VISIBLE_DEVICES=0,1,2,3 python3 -m torch.distributed.launch --nproc_per_node=4 train.py --dataset xx --split overlap --name xx
 ```
 ## Acknowledgement
-Many thanks for the work and code sharing of [Pytorch Image Models(timm)] (https://github.com/huggingface/pytorch-image-models).
+Many thanks for the work and code sharing of [Pytorch Image Models (timm)](https://github.com/huggingface/pytorch-image-models).
